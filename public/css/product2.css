@@ -1,0 +1,22 @@
+.product2 .wrapper {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border: 5px solid grey;
+    border-radius: 10px;
+}
+
+.product2 .wrapper h1, p{
+    font-family: "Josefin Sans", serif;
+}
+
+.product2 .wrapper h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.product2 .wrapper p{
+    font-size: 1.3rem;
+}
